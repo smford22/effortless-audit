@@ -1,0 +1,6 @@
+.idea
+profile_app_pattern/results/
+inspec.lock
+vendor/
+win_profile_app_pattern/habitat/results
+win_profile_app_pattern/results
